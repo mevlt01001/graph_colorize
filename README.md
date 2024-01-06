@@ -48,7 +48,7 @@ ANSWER.cpp Functions:
                         Executes the painting function iteratively using the function.
 
 
-#OUTPUT:
+OUTPUT:
     
     vertex(1):Green	| Adjs: - vertex(2):Red - vertex(4):Blue
     vertex(2):Red	| Adjs: - vertex(1):Green - vertex(3):Blue - vertex(4):Blue - vertex(5):Blue - vertex(6):Green
