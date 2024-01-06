@@ -60,4 +60,4 @@ ANSWER.cpp Functions:
     vertex(8):Green	| Adjs: - vertex(5):Blue - vertex(9):Red
     vertex(9):Red	| Adjs: - vertex(5):Blue - vertex(6):Green - vertex(8):Green
 
-Process finished with exit code 0
+    Process finished with exit code 0
