@@ -1,7 +1,9 @@
 # graph_colorize
 
 QUESTION:
+
 Write a function called graphColorize that assigns colors to the nodes of an undirected graph so that neighboring nodes are not the same color. 
+
 Input: (Graph &graph, vector<string> &colors) 
 
 ![image](https://github.com/mevlt01001/graph_colorize/assets/114837266/16ba4abb-3327-4e58-a8b7-4f48b2d883b0)
