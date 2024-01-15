@@ -23,7 +23,7 @@ For example, given the colors {"blue", "green", "red"} to the function, the curr
 
 ANSWER.cpp Functions:
     
-    createNodes ->      is used to create node objects in memory.
+     createNodes ->      is used to create node objects in memory.
                         The addresses of the created objects are stored in the graph class
                         are stored in the 'vertexes' vector inside the object.
     
